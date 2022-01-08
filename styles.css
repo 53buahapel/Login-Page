@@ -48,12 +48,7 @@ html::-webkit-scrollbar,
   color: rgb(37, 37, 37);
   text-decoration: none;
 }
-.link:hover {
-  border-bottom: solid black;
-}
-.link a:hover {
-  color: black;
-}
+
 /* Jumbotron */
 .jumbotron {
   padding-top: 2rem;
